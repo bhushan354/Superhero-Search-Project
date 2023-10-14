@@ -1,28 +1,26 @@
-import './App.css';
-import {
-  BrowserRouter, Routes, Route, Link,
-} from 'react-router-dom';
-import Home from './components.js/Home';
-import Hero from './components.js/Hero';
+/* eslint-disable import/no-extraneous-dependencies */
+import { Route, Routes } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
+import { useEffect } from 'react';
+import { allApiHeros } from './Redux/AllHeros/allHerosSlice';
+import ComicList from './components/ComicList';
+import ComicHero from './components/ComicHero';
+import Home from './components/Home';
 
 function App() {
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(allApiHeros());
+  }, [dispatch]);
   return (
-    <BrowserRouter>
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">home</Link>
-          </li>
-          <li>
-            <Link to="/heroes/:heroId">Hero</Link>
-          </li>
-        </ul>
-      </nav>
+    <>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/heroes/:heroId" element={<Hero />} />
+        <Route path="/herosList" element={<ComicList />} />
+        <Route path="/heroes/:heroeId" element={<ComicHero />} />
       </Routes>
-    </BrowserRouter>
+    </>
   );
 }
 
