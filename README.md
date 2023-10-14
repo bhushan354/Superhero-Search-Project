@@ -40,7 +40,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [[Live Demo link](https://final-touch--merry-douhua-03f0b6.netlify.app/)]
+- https://final-touch--merry-douhua-03f0b6.netlify.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
