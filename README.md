@@ -57,6 +57,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 - Browser
 - Node
+- Internet
 - Code Editor
 
 In order to run this project you need:
