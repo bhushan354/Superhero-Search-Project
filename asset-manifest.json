@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Superhero-Search-Project/static/css/main.ab62228f.css",
+    "main.js": "/Superhero-Search-Project/static/js/main.4ef46fa2.js",
+    "index.html": "/Superhero-Search-Project/index.html",
+    "main.ab62228f.css.map": "/Superhero-Search-Project/static/css/main.ab62228f.css.map",
+    "main.4ef46fa2.js.map": "/Superhero-Search-Project/static/js/main.4ef46fa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab62228f.css",
+    "static/js/main.4ef46fa2.js"
+  ]
+}
