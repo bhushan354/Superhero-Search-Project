@@ -41,8 +41,8 @@ function ComicHero() {
                 {selHero.comics.available}
               </h4>
               <ul>
-                {selHero.comics.items.map((comic, index) => (
-                  <li key={index.id}>{comic.name}</li>
+                {selHero.comics.items.map((comic) => (
+                  <li key={comic.id}>{comic.name}</li>
                 ))}
               </ul>
 
