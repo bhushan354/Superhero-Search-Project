@@ -64,7 +64,6 @@ In order to run this project you need:
 
 To get a local copy up and running follow these simple example steps.
 
-- Choose a directory
 - Open a Terminal
 - write: git clone git@github.com:bhushan354/Superhero-Search-Project.git
 - get into to directory
