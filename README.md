@@ -111,7 +111,7 @@ If you like this project, pplease, feel free to star the repository and share it
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the Microverse team and Code reviewers who helped us create this project. Also, I would like to express our sincere gratitude to [Agustine Soria](https://github.com/SaveryIV) for his valuable assistance in solving a problem with fetching rockets From API. His expertise and guidance Ire instrumental in finding a solution.
+I would like to thank the Microverse team and Code reviewers who helped us create this project. Also, I would like to express our sincere gratitude to [Agustine Soria](https://github.com/SaveryIV) for his valuable assistance in solving a problem with fetching Superheor data From API. His expertise and guidance helped me in finding a solution.
 
 
 ## 📝 License <a name="license"></a>
