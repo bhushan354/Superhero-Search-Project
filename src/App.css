@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: darksalmon;
+  background: #010615;
+  color: #fff;
 }
 
 li {
@@ -36,8 +37,9 @@ li {
 
 .listHome {
   height: 136px;
-  background: cornflowerblue;
+  background-color: hsl(242deg 88.4% 66.3% / 61%);
   border-radius: 6px;
+  color: #fff;
 }
 
 .homeSubInfo {
@@ -48,7 +50,13 @@ li {
 .homeSubInfo h2 {
   text-decoration: none;
   font-size: medium;
-  color: rgb(65, 72, 84);
+  color: rgb(255, 255, 255);
+}
+
+.homeSubInfo p {
+  text-decoration: none;
+  font-size: medium;
+  color: rgb(255, 255, 255);
 }
 
 .typeInput {
@@ -83,7 +91,7 @@ secondpage styles */
 }
 
 .individualHero {
-  background-color: brown;
+  background-color: hsl(242deg 88.4% 66.3% / 61%);
   border-radius: 6px;
   height: 100%;
 }
@@ -97,7 +105,7 @@ secondpage styles */
 .allHeroList img {
   width: 45vw;
   border-radius: 6px;
-  height: 60vh;
+  height: 24vh;
   object-fit: cover;
   margin-top: 2px;
 }
@@ -126,23 +134,18 @@ secondpage styles */
   width: 60%;
 }
 
-.subInfo {
-  color: antiquewhite;
-  gap: 2px;
-  background-color: rgb(124, 109, 88);
-}
-
 /* header styles */
 .headerMain {
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  background: cadetblue;
+  background: #010615;
 }
 
 svg {
   height: 80%;
   width: 38px;
+  color: #fff;
 }
 
 .setting {
@@ -150,9 +153,7 @@ svg {
 }
 
 .headingTitle {
-  color: #433a3a;
   font-size: 34px;
-  background-color: bisque;
   padding: 4px;
   border-radius: 6px;
 }

@@ -21,8 +21,6 @@
   - [📝 License ](#-license-)
 
 
-**[A&B films]** shows list of popular Rockets<br />
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -48,7 +46,7 @@
 
 ## 🚀 Project presentation <a name="live-demo"></a>
 
-- [Project presentation link](will add later)
+- [Project presentation link](https://drive.google.com/file/d/1DLrnDYy-_wef153-CCEMP3wsz0uk5aqB/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +94,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/bhushan354//issues)
+Feel free to check the [issues page](https://github.com/bhushan354/Superhero-Search-Project/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,11 +109,11 @@ If you like this project, pplease, feel free to star the repository and share it
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the Microverse team and Code reviewers who helped us create this project. Also, I would like to express our sincere gratitude to [Agustine Soria](https://github.com/SaveryIV) for his valuable assistance in solving a problem with fetching Superheor data From API. His expertise and guidance helped me in finding a solution.
+I would like to thank the Nelson Sakwa from him I took Inspiration to build this project and Microverse team and Code reviewers who helped us create this project. Also, I would like to express our sincere gratitude to [Agustine Soria](https://github.com/SaveryIV) for his valuable assistance in solving a problem with fetching Superheor data From API. His expertise and guidance helped me in finding a solution.
 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
