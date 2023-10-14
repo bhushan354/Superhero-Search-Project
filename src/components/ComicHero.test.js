@@ -3,7 +3,7 @@ import { render } from '@testing-library/react';
 import configureMockStore from 'redux-mock-store';
 import { Provider } from 'react-redux';
 import { MemoryRouter, Routes, Route } from 'react-router-dom';
-import ComicHero from '../ComicHero';
+import ComicHero from './ComicHero';
 
 const mockStore = configureMockStore([]);
 
