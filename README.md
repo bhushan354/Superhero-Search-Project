@@ -19,6 +19,8 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
+ 
+- [Superhero-search-Project] is a mobile web application to check a list of comics available of superheroes
 
 
 ## 🛠 Built With <a name="built-with"></a>
