@@ -46,7 +46,7 @@
 
 ## 🚀 Project presentation <a name="live-demo"></a>
 
-- [Project presentation link](will add later)
+- [Project presentation link](https://drive.google.com/file/d/1DLrnDYy-_wef153-CCEMP3wsz0uk5aqB/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
