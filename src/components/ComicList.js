@@ -5,7 +5,6 @@ import { useSelector } from 'react-redux';
 import { AiOutlineLeft, AiFillSetting } from 'react-icons/ai';
 import { useState } from 'react';
 
-// this is the thing where all the heros get displayed
 function ComicList() {
   const AllHeroeList = useSelector((state) => state.HeroObj.allListHeros);
   const hasError = useSelector((state) => state.HeroObj.error);
