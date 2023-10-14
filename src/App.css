@@ -4,8 +4,8 @@
   padding: 0;
 }
 
-body{
-  background-color:darksalmon;
+body {
+  background-color: darksalmon;
 }
 
 li {
@@ -46,9 +46,9 @@ li {
 }
 
 .homeSubInfo h2 {
-  text-decoration-style: none;
+  text-decoration: none;
   font-size: medium;
-  color:rgb(65, 72, 84);
+  color: rgb(65, 72, 84);
 }
 
 .typeInput {
@@ -64,7 +64,7 @@ li {
   width: 100%;
 }
 
-/* 
+/*
 secondpage styles */
 
 .secondSearch {
@@ -83,14 +83,14 @@ secondpage styles */
 }
 
 .individualHero {
-  background-color:brown;
+  background-color: brown;
   border-radius: 6px;
   height: 100%;
 }
 
 .allHeroList a {
   text-decoration: none;
-  color: #ffffff;
+  color: #fff;
   text-align: center;
 }
 
@@ -102,7 +102,7 @@ secondpage styles */
   margin-top: 2px;
 }
 
-/* third page styles = comichero*/
+/* third page styles = comichero */
 
 .selectedHero {
   display: flex;
@@ -127,7 +127,7 @@ secondpage styles */
 }
 
 .subInfo {
-  color:antiquewhite;
+  color: antiquewhite;
   gap: 2px;
   background-color: rgb(124, 109, 88);
 }
@@ -146,7 +146,7 @@ svg {
 }
 
 .setting {
-  height: 100;
+  height: 100px;
 }
 
 .headingTitle {
