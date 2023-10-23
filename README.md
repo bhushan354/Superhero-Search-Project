@@ -19,6 +19,8 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
+ 
+**[Superhero-search-Project]** is a mobile web application to check a list of comics available of superheroes
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -40,7 +42,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [[Live Demo link](https://bhushan354.github.io/Superhero-Search-Project/)]
+- https://final-touch--merry-douhua-03f0b6.netlify.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,13 +59,13 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 - Browser
 - Node
+- Internet
 - Code Editor
 
 In order to run this project you need:
 
 To get a local copy up and running follow these simple example steps.
 
-- Choose a directory
 - Open a Terminal
 - write: git clone git@github.com:bhushan354/Superhero-Search-Project.git
 - get into to directory

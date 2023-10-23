@@ -6,14 +6,11 @@ import { useSelector } from 'react-redux';
 function ComicHero() {
   const getAllHero = useSelector((state) => state.HeroObj.allListHeros);
   const { heroeId } = useParams();
-  // selHero means selected hero
   const selHero = getAllHero.find((allhero) => allhero.name === heroeId);
 
   if (!selHero) {
     return <h1>Please Wait a Moment ...</h1>;
   }
-
-  // only one hero thing this is
 
   return (
     <>
